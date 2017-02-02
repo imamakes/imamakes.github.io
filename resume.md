@@ -10,4 +10,4 @@ title: Resume
 
 ## Contact
 If you like what you see drop me a line. If you don't like what you see drop me more lines.
-All lines go to [imasarkar123@gmail.com](mailto:imasarkar123@gmail.com).
+All lines go to <imasarkar123@gmail.com>.
