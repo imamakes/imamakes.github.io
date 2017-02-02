@@ -3,10 +3,10 @@ layout: default
 title: Perform
 ---
 
-# Lorem ipsum
+# Perform pain relief muscle spray
 
-These are print ads
+Print ads to generate brand awareness for an over the counter pain relief spray.
 
-![](Perform1.jpg)
-![](Perform2.jpg)
-![](Perform3.jpg)
+![Perform print ad](Perform1.jpg)
+![Perform print ad](Perform2.jpg)
+![Perform print ad](Perform3.jpg)
