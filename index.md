@@ -7,7 +7,7 @@ title: Hello
 
 ![Photo of ima](landing.jpg)
 
-(yes that is an arm signed by Check Palahniuk behind me)
+(yes, that is an arm signed by Chuck Palahniuk behind me)
 
 ![Things ima likes](imima.jpg)
 
