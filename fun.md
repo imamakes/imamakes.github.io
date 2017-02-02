@@ -5,7 +5,11 @@ title: Fun Stuff
 
 # Fun Stuff
 
-I take my camera wherever I go. I love to make videos whenever I can.
+In light of recent events:
+
+![](monster.jpg)
+
+I like doing silly things and making videos whenever I can.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mqo8Enxwlg4" frameborder="0" allowfullscreen></iframe>
 <br />
