@@ -2,13 +2,15 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>{{ page.title | default: site.title }}</title>
+    <title>ImaMakes: {{ page.title | default: site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#49274A">
     <link href='https://fonts.googleapis.com/css?family=Amatica+SC:400,700|Josefin+Sans' rel='stylesheet' type='text/css'>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
+
+
   <body>
     <section class="page-header">
     <h1 class="project-name"><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
