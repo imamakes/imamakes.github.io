@@ -17,7 +17,7 @@ So I was slightly disappointed when my family started giving my sister and me a 
 Slightly ironic that they scolded us about using too much English, in English. But I think by then I had realized that parents were strange people who went beyond double standards, so I let them be.
  
  
- 
+- - -
  
 I never really thought about languages till I moved to America. I've passionately held on to my Indian accent, not out of patriotic love for the motherland, but just to prove a point.
 I know my English, like the rest of me, is painfully Indian. But somehow the Indian accent just isn't as "cute" as any other European accent.  When you think of an Indian accent, your mind doesn't conjure up cuteness. It conjures up hairy, middle aged brownness at the 7-11.
