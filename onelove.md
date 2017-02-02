@@ -1,9 +1,13 @@
 ---
 layout: default
-title: One Love
+title: One Love Foundation
 ---
 
-# One Love
+# One Love Foundation
+
+One Love Foundation raises awareness about the warning signs of abuse in relationships.
+  
+These are print ads and a video to draw attention to non-physical abuse in relationships.
 
 ![](Alex.jpg)
 ![](Mai.jpg)
