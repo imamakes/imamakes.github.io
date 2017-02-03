@@ -17,7 +17,11 @@ title: Blog
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    <p>
+      {{ post.content | truncatewords:30 | strip_html }}
+      <a href="{{ site.baseurl }}{{ post.url }}">continue reading</a>
+    </p>
+
   </div>
   {% endfor %}
 </div>
