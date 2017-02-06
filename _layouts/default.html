@@ -10,6 +10,10 @@
     <link href='https://fonts.googleapis.com/css?family=Amatica+SC:400,700|Josefin+Sans' rel='stylesheet' type='text/css'>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </head>
 
 
