@@ -14,4 +14,4 @@ I come from the land of spicy charmers and snake curries. Oh wait, I got that mi
 {: .project-tagline }
 When I'm not hanging out at the library naming drinks, I like looking at the sky, collecting t-shirts, and petting every dog that comes my way.  
 I also like telling stories, with words (written and spoken), pictures (moving and still),
-and hand puppets.
+and hand puppets (real and imaginary).
