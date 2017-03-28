@@ -9,7 +9,7 @@ title: Hello
 
 (yes, that is an arm signed by Chuck Palahniuk behind me)
 
-![Things ima likes](imima.jpg)
+![Things ima likes](imalogohno.jpg)
 
 Hello, welcome to my site, it's full of magic and wonder, my work and blog (okay fine, there is no magic and wonder).
 
